@@ -1,0 +1,13 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "addin",
+	"id": "7c3e2f1a-5b8d-4e6a-9f21-3d0c8a6b4e57",
+	"author": "Matt Harrison",
+	"description": {
+		"": "SpaceMouse navigation without the 3Dconnexion driver (reads the device over USB HID)"
+	},
+	"version": "0.1.0",
+	"runOnStartup": true,
+	"supportedOS": "mac",
+	"editEnabled": true
+}
